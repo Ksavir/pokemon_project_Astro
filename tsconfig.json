@@ -9,7 +9,7 @@
       // "@assets/*": ["src/assets/*"],
       // "@interfaces/*": ["src/interfaces/*"]
     },
-  "include": [".astro/types.d.ts", "**/*"],
-  "exclude": ["dist"]
+  // "include": [".astro/types.d.ts", "**/*"],
+  // "exclude": ["dist"]
 }
 }
